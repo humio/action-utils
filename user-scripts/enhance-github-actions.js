@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Enhance GitHub Actions
 // @author       Simon Boisen <simon@humio.com>
-// @version      1.0.0.0
+// @version      1.0.0
 // @match        https://github.com/humio/humio/actions*
+// @updateURL    https://raw.githubusercontent.com/humio/action-utils/master/user-scripts/enhance-github-actions.js
 // @grant        none
 // ==/UserScript==
 
